@@ -1,2 +1,2 @@
 # machine-learning-zoomcamp-by-DataTalksClub
-Documenting my homeworks and projects
+Documenting homeworks and projects
